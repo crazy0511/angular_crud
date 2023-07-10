@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Linh ",
+      "lastName": "Phạm Văn",
+      "email": "linh.phamvan@ncc.asia",
+      "mobile": "0382998336",
+      "salary": "$ 5,000"
+    },
+    {
+      "id": 2,
+      "firstName": "Tuấn ",
+      "lastName": "Phạm Văn",
+      "email": "tuan.phamvan@ncc.asia",
+      "mobile": "0382998396",
+      "salary": "$ 2,000"
+    },
+    {
+      "id": 3,
+      "firstName": "Trang",
+      "lastName": "Huỳnh Như",
+      "email": "trang.huynhnhu@ncc.asia",
+      "mobile": "0383999829",
+      "salary": "$ 5,000"
+    },
+    {
+      "id": 4,
+      "firstName": "Toàn",
+      "lastName": "Nguyễn Văn",
+      "email": "toan.nguyenvan@ncc.asia",
+      "mobile": "0372668888",
+      "salary": "$ 500"
+    },
+    {
+      "id": 5,
+      "firstName": "Hoàn",
+      "lastName": "Nguyễn Văn",
+      "email": "hoan.nguyenvan@ncc.asia",
+      "mobile": "0223334444",
+      "salary": "$ 10,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
